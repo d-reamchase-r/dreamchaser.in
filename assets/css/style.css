@@ -494,7 +494,7 @@ section .container {
 }
 
 .counts .count-box span {
-  font-size: 36px;
+  font-size: 16px;
   display: block;
   font-weight: 600;
   color: #fff;
@@ -522,6 +522,7 @@ section .container {
   margin: 0;
   text-transform: uppercase;
   display: block;
+  font-size: 20px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #fff;
